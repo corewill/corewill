@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Corey Williams</h1>
 <h3 align="center">A passionate Software Developer from Atlanta, GA</h3>
-<img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRM3BPKijv2KdJXFuTxNN8o6U6xmzVHWhikkGEWxSBvAG9CDraZRdpXphBFTYTreoTlocE&usqp=CAU"
+<img align="right" alt="Coding" width="230" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRM3BPKijv2KdJXFuTxNN8o6U6xmzVHWhikkGEWxSBvAG9CDraZRdpXphBFTYTreoTlocE&usqp=CAU">
 
 - 🌱 I’m currently learning **React**
 
