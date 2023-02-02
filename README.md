@@ -1,3 +1,4 @@
+[![MasterHead](https://indoanalytica.com/static/images/bannerr.gif)](https://corewillportfolio.netlify.app/)
 <h1 align="center">Hi 👋, I'm Corey Williams</h1>
 <h3 align="center">A passionate Software Developer from Atlanta, GA</h3>
 <img align="right" alt="Coding" width="230" src="https://media.tenor.com/whgQwNlVvNkAAAAi/xero-code.gif">
@@ -5,6 +6,8 @@
 - 🌱 I’m currently learning **React**
 
 - 📫 How to reach me **https://www.linkedin.com/in/corewill1/**
+
+- 👨‍💻 All of my projects are available at [https://corewillportfolio.netlify.app/](https://corewillportfolio.netlify.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
